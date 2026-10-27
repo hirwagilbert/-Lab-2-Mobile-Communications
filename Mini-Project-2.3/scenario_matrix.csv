@@ -1,0 +1,19 @@
+scenario,tech,fails
+S1 Smart home sensors,BLE 5 (LE 1M),-
+S1 Smart home sensors,Bluetooth Classic (Class 2),range
+S1 Smart home sensors,Bluetooth Classic (Class 1),power
+S1 Smart home sensors,Wi-Fi 5 (802.11ac),power
+S1 Smart home sensors,Wi-Fi 6 (802.11ax),power
+S1 Smart home sensors,Mobile WiMAX (802.16e),power
+S2 Campus network,BLE 5 (LE 1M),rate
+S2 Campus network,Bluetooth Classic (Class 2),"range,rate"
+S2 Campus network,Bluetooth Classic (Class 1),rate
+S2 Campus network,Wi-Fi 5 (802.11ac),-
+S2 Campus network,Wi-Fi 6 (802.11ax),-
+S2 Campus network,Mobile WiMAX (802.16e),rate
+S3 Metro fixed link,BLE 5 (LE 1M),"range,rate"
+S3 Metro fixed link,Bluetooth Classic (Class 2),"range,rate"
+S3 Metro fixed link,Bluetooth Classic (Class 1),"range,rate"
+S3 Metro fixed link,Wi-Fi 5 (802.11ac),range
+S3 Metro fixed link,Wi-Fi 6 (802.11ax),range
+S3 Metro fixed link,Mobile WiMAX (802.16e),-
